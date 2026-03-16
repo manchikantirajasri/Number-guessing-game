@@ -1,0 +1,6 @@
+{
+    "max_attempt_multiplier": 1.0,
+    "enable_cheat_detection": true,
+    "enable_achievements": true,
+    "daily_range": 500
+}
