@@ -1,6 +1,6 @@
-# Advanced Number Guessing Game - CLI
+# Number Guessing Game 
 
-A production-grade Python CLI Number Guessing Game with database persistence, daily challenges, achievements, replay system, analytics export, and cheat detection.
+A Python Number Guessing Game with database persistence, daily challenges, achievements, replay system, analytics export, and cheat detection.
 
 This project goes far beyond a basic guessing game and demonstrates real software engineering concepts like state persistence, data modeling, analytics, and extensible design.
 
@@ -169,46 +169,5 @@ This project is ideal for showcasing:
 * Logical reasoning and validation
 * Software engineering maturity
 
----
-
-## 🔮 Future Enhancements
-
-* Rich UI (colors, progress bars)
-* Daily leaderboards
-* One-attempt-per-day lock
-* Replay viewer
-* Docker & pip packaging
-* Web version (FastAPI + React)
-
----
-
-## 👨‍💻 Author
-
-**Suhaas S**  
-Data Science & AI Undergraduate  
-Interested in building practical, scalable, and well-engineered systems.
-
----
-
-## ⭐ If You Like This Project
-
-Give it a ⭐ on GitHub — it motivates continuous improvement!
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-
----
-
-
----
 
 **Built with 💙 and Python**
